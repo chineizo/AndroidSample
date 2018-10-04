@@ -37,7 +37,6 @@ class MyApplication : Application() {
 
 
     fun <T> addToRequestQueue(req: Request<T>) {
-        req.setTag(TAG)
         getRequestQueue()?.add(req)
     }
 }

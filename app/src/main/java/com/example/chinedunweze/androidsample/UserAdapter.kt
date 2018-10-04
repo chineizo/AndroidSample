@@ -7,6 +7,7 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.chinedunweze.androidsample.activity.DetailsActivity
 import com.example.chinedunweze.androidsample.data.Data
 import com.example.chinedunweze.androidsample.util.Constants
 import com.squareup.picasso.Picasso

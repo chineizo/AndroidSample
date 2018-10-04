@@ -1,4 +1,4 @@
-package com.example.chinedunweze.androidsample
+package com.example.chinedunweze.androidsample.activity
 
 import android.arch.lifecycle.Observer
 import android.arch.lifecycle.ViewModelProviders
@@ -7,6 +7,9 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.view.View
 import android.widget.Toast
+import com.example.chinedunweze.androidsample.model.DataViewModel
+import com.example.chinedunweze.androidsample.R
+import com.example.chinedunweze.androidsample.UserAdapter
 import com.example.chinedunweze.androidsample.data.Data
 import com.example.chinedunweze.androidsample.util.Utils
 import kotlinx.android.synthetic.main.first_screen_layout.*

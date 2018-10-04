@@ -6,7 +6,7 @@
     android:background="@color/background_color"
     android:orientation="vertical"
     android:padding="10dp"
-    tools:context=".FirstScreenActivity">
+    tools:context=".activity.FirstScreenActivity">
 
     <TextView
         style="@style/ItemStyle"

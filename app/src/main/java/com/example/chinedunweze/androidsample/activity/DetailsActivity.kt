@@ -1,8 +1,9 @@
-package com.example.chinedunweze.androidsample
+package com.example.chinedunweze.androidsample.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.MenuItem
+import com.example.chinedunweze.androidsample.R
 import com.example.chinedunweze.androidsample.data.Data
 import com.example.chinedunweze.androidsample.util.Constants
 import kotlinx.android.synthetic.main.second_screen_layout.*

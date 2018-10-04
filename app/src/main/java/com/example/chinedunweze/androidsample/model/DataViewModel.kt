@@ -1,4 +1,4 @@
-package com.example.chinedunweze.androidsample
+package com.example.chinedunweze.androidsample.model
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MutableLiveData
@@ -7,6 +7,7 @@ import android.util.Log
 import com.android.volley.Request
 import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
+import com.example.chinedunweze.androidsample.MyApplication
 import com.example.chinedunweze.androidsample.data.Data
 import com.example.chinedunweze.androidsample.util.Constants
 import com.google.gson.Gson
