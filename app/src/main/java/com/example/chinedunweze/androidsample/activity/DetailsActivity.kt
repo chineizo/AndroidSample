@@ -30,7 +30,6 @@ class DetailsActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 
-
     /**
      * Display Data items in the view
      */
